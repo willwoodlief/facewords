@@ -1,0 +1,13 @@
+{
+    "name": "will/facewords",
+    "authors": [
+        {
+            "name": "willwoodlief",
+            "email": "willwoodlief@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/graph-sdk": "^5.6",
+        "symfony/yaml": "^3.4"
+    }
+}
